@@ -38202,7 +38202,7 @@ s=n!=null?6:8
 break
 case 6:j=t.N
 s=9
-return A.Q(A.ajD(A.e7("https://84eb5cafd76ad8b2-95-59-242-168.serveousercontent.com/api/is_admin/"+A.i(n.a.id)),A.au(["Bypass-Tunnel-Reminder","true"],j,j)).EZ(B.BB),$async$tc)
+return A.Q(A.ajD(A.e7("https://881fd038c1c10bca-95-59-242-168.serveousercontent.com/api/is_admin/"+A.i(n.a.id)),A.au(["Bypass-Tunnel-Reminder","true"],j,j)).EZ(B.BB),$async$tc)
 case 9:m=b
 if(m.b===200){j=m
 l=B.ba.qt(A.R6(A.QU(j.e)).dt(j.w),null)
@@ -38423,7 +38423,7 @@ var $async$tq=A.P(function(a,b){if(a===1){p.push(b)
 s=q}for(;;)switch(s){case 0:o.ai(new A.abT(o))
 q=3
 j=o.a
-n=A.e7("https://84eb5cafd76ad8b2-95-59-242-168.serveousercontent.com/api/bookings?date="+j.c+"&time_slot="+j.d)
+n=A.e7("https://881fd038c1c10bca-95-59-242-168.serveousercontent.com/api/bookings?date="+j.c+"&time_slot="+j.d)
 j=t.N
 s=6
 return A.Q(A.ajD(n,A.au(["Bypass-Tunnel-Reminder","true"],j,j)),$async$tq)
@@ -38530,7 +38530,7 @@ n.f="\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043f\u043e\u043b\u044c\u
 n.f="\u041e\u0448\u0438\u0431\u043a\u0430 SDK"}},
 uN(){var s=0,r=A.O(t.H),q=1,p=[],o=this,n,m,l,k,j,i,h,g,f,e,d,c,b
 var $async$uN=A.P(function(a,a0){if(a===1){p.push(a0)
-s=q}for(;;)switch(s){case 0:c=A.e7("https://84eb5cafd76ad8b2-95-59-242-168.serveousercontent.com/api/book")
+s=q}for(;;)switch(s){case 0:c=A.e7("https://881fd038c1c10bca-95-59-242-168.serveousercontent.com/api/book")
 q=3
 k=$.xZ
 j=(k==null?$.xZ=new A.xY():k).gDn().goG()
@@ -38641,7 +38641,7 @@ s=q}for(;;)switch(s){case 0:o.ai(new A.a7Y(o))
 q=3
 l=t.N
 s=6
-return A.Q(A.ajD(A.e7("https://84eb5cafd76ad8b2-95-59-242-168.serveousercontent.com/api/admin/bookings"),A.au(["Bypass-Tunnel-Reminder","true"],l,l)),$async$pm)
+return A.Q(A.ajD(A.e7("https://881fd038c1c10bca-95-59-242-168.serveousercontent.com/api/admin/bookings"),A.au(["Bypass-Tunnel-Reminder","true"],l,l)),$async$pm)
 case 6:n=b
 if(n.b===200)o.ai(new A.a7Z(o,n))
 q=1
@@ -38665,7 +38665,7 @@ var $async$tj=A.P(function(b,c){if(b===1){p.push(c)
 s=q}for(;;)switch(s){case 0:q=3
 l=t.N
 s=6
-return A.Q(A.aqx(A.e7("https://84eb5cafd76ad8b2-95-59-242-168.serveousercontent.com/api/admin/bookings/"+a),A.au(["Bypass-Tunnel-Reminder","true"],l,l)),$async$tj)
+return A.Q(A.aqx(A.e7("https://881fd038c1c10bca-95-59-242-168.serveousercontent.com/api/admin/bookings/"+a),A.au(["Bypass-Tunnel-Reminder","true"],l,l)),$async$tj)
 case 6:n=c
 if(n.b===200){o.pm()
 l=o.c
