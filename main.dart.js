@@ -41975,7 +41975,7 @@ $S:118}
 A.al8.prototype={
 $0(){var s,r
 try{if($.hk==null)$.hk=new A.l6()
-v.G.Telegram.WebApp.openLink("https://yandex.kz/maps/?text=\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439+\u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d+\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u044b\u0439+21",{try_instant_view:!0})}catch(r){s=A.ad(r)
+v.G.Telegram.WebApp.openLink("https://yandex.kz/map-widget/v1/?text=The+Continental,+\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439,+\u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d+\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u044b\u0439,+21",{try_instant_view:!0})}catch(r){s=A.ad(r)
 A.h_().$1("Error opening map: "+A.j(s))}},
 $S:0}
 A.al9.prototype={
